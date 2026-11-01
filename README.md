@@ -4,7 +4,7 @@ Backend engineer building developer tooling for API team
 
 ## 当前在做
 - 🔭 点评  
-- 🌱 Redis
+- 🌱 Redis学习
 
 ## 精选项目
 
